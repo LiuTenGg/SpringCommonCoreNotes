@@ -7,10 +7,10 @@ public class Tiger {
   }
 
   public void init(){
-    System.out.println("Tiger创建");
+    System.out.println("Tiger 创建");
   }
 
   public void destory(){
-    System.out.println("Tiger销毁");
+    System.out.println("Tiger 销毁");
   }
 }
